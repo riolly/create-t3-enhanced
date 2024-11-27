@@ -342,7 +342,7 @@ Read this for the [differences](https://www.prisma.io/docs/concepts/components/p
 
 ##### Local MySQL server
 
-For MySQL installation follow [guide](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04).
+For MySQL installation follow [guide](https://www.digitalocean.com/community/tutorials/how-to-install-mysql-on-ubuntu-20-04). or You may Also follow [MySQL Server Installation Guide](https://docs.vultr.com/how-to-install-mysql-on-ubuntu-24-04)
 
 Set database url on `.env`<br/>
 `DATABASE_URL=mysql://user:password@localhost:3306/database_name`
